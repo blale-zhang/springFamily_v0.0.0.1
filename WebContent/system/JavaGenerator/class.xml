@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class name="Generator" pakeage="com/catt" isAbstract="true" isFinal="true" visitControl="public" super="java/lang/Object">
+
+	<properties>
+		<property name="name" visitControl="public" isStatic="true" isFinal="true" type="java.lang.String">abc</property>
+	</properties>
+	
+</class>

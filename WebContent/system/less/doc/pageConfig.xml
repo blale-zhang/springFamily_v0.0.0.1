@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<view type="jsp">
+
+	<head>
+		<metas>
+			<meta></meta>
+		</metas>
+		<links>
+			<link><type>text/css</type><src>${ctx}/css/layout.css</src><rel>stylesheet</rel></link>
+		</links>
+		<scrpits>
+			<scrpit><name>jquery</name><path>./</path><sbsPath>${ctx}/component/js/jquery.js</sbsPath></scrpit>
+		</scrpits>
+	</head>
+	<body>
+	
+	</body>
+
+
+</view>
